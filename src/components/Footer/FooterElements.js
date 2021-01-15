@@ -73,7 +73,8 @@ export const SocialMedia = styled.section`
 
 export const SocialMediaWrap = styled.div`
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
   align-items: center;
   max-width: 1100px;
   margin: 40px auto 0 auto;
@@ -85,12 +86,9 @@ export const SocialMediaWrap = styled.div`
 
 export const SocialLogo = styled(Link)`
   color: #fff;
-  justify-self: start;
   cursor: pointer;
   text-decoration: none;
   font-size: 1.5rem;
-  display: flex;
-  align-items: center;
   margin-bottom: 16px;
   font-weight: bold;
 `;

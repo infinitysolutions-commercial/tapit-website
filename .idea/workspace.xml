@@ -3,29 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="63a9f8a4-5228-45b0-a430-3e3e50db968b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ButtonElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonElement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/InfoSection/Data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InfoSection/Data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/InfoSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InfoSection/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/NavbarElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/NavbarElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Services/ServicesElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/ServicesElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/SidebarElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/SidebarElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/svg-2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/svg-6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/signin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/videos/hero.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/videos/hero.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
