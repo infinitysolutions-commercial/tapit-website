@@ -35,7 +35,7 @@ export const FooterLinksWrapper = styled.div`
 export const FooterLinkItems = styled.div`
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   margin: 16px;
   text-align: left;
   width: 160px;
@@ -100,17 +100,10 @@ export const WebsiteRights = styled.small`
   margin-bottom: 16px;
 `;
 
-export const SocialIcons = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 240px;
+export const Img = styled.img`
+  width: 30%;
+  margin: 0 0 10px 0;
+  padding-right: 0;
 `;
-
-export const SocialIconLink = styled.a`
-  color: #fff;
-  font-size: 24px;
-`;
-
 
 

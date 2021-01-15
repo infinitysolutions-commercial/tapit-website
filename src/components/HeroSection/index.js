@@ -25,14 +25,21 @@ const HeroSection = () => {
                 <VideoBg autoPlay loop muted src={Video} type='vide/mp4'/>
             </HeroBg>
             <HeroContent>
-                <HeroH1>We Bring Ideas Into Code</HeroH1>
-                <HeroP>Have you an idea? Just tell us, we're here to help you.</HeroP>
+                <HeroH1>Trasformiamo idee in App</HeroH1>
+                <HeroP>Hai un idea? Bene, siamo qua ad aiutarti.</HeroP>
                 <HeroBtnWrapper>
                     <Button to='signup'
                             onMouseEnter={onHover}
                             onMouseLeave={onHover}
                             primary='true'
-                            dark='true'>Get started {hover ? <ArrowForward /> : <ArrowRight />}</Button>
+                            buttonenabled="true"
+                            smooth={true}
+                            duration={500}
+                            spy={true}
+                            exact='true'
+                            offset={-80}
+                            dark='true'
+                    >Contattaci {hover ? <ArrowForward /> : <ArrowRight />}</Button>
                 </HeroBtnWrapper>
             </HeroContent>
         </HeroContainer>

@@ -4,7 +4,28 @@
     <list default="true" id="63a9f8a4-5228-45b0-a430-3e3e50db968b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ButtonElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ButtonElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InfoSection/Data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InfoSection/Data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InfoSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InfoSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar/NavbarElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/NavbarElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Services/ServicesElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/ServicesElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Services/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/SidebarElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/SidebarElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/svg-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/svg-6.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/signin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/videos/hero.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/src/videos/hero.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +48,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucad\Desktop\website\src\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,11 +75,31 @@
       <workItem from="1610577794659" duration="4332000" />
       <workItem from="1610609738030" duration="3369000" />
       <workItem from="1610618625926" duration="999000" />
-      <workItem from="1610625096409" duration="1305000" />
+      <workItem from="1610625096409" duration="4143000" />
+      <workItem from="1610638719831" duration="470000" />
+      <workItem from="1610657556891" duration="6971000" />
+      <workItem from="1610667104222" duration="509000" />
+      <workItem from="1610715200187" duration="708000" />
+      <workItem from="1610715951166" duration="1048000" />
+      <workItem from="1610721843383" duration="2094000" />
+      <workItem from="1610745639701" duration="2055000" />
+      <workItem from="1610750822601" duration="848000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
