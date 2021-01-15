@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63a9f8a4-5228-45b0-a430-3e3e50db968b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/FooterElements.js" afterDir="false" />
-    </list>
+    <list default="true" id="63a9f8a4-5228-45b0-a430-3e3e50db968b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +60,14 @@
       <workItem from="1610745639701" duration="2055000" />
       <workItem from="1610750822601" duration="848000" />
     </task>
+    <task id="LOCAL-00001" summary="Sistemato footer">
+      <created>1610753319878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610753319878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +84,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sistemato footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistemato footer" />
   </component>
 </project>
