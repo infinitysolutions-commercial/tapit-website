@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import Sidebar  from '../components/main/Sidebar';
-import Navbar from "../components/main/NavBar";
-import HeroSection from "../components/main/HeroSection";
-import InfoSection from "../components/main/InfoSection";
-import { homeObjOne, homeObjThree, homeObjTwo } from "../components/main/InfoSection/Data";
-import Services from "../components/main/Services";
-import Footer from "../components/main/Footer";
+import Sidebar  from '../components/main/MainSidebar';
+import Navbar from "../components/main/MainNavBar";
+import HeroSection from "../components/main/MainHeroSection";
+import InfoSection from "../components/main/MainInfoSection";
+import { homeObjOne, homeObjThree, homeObjTwo } from "../components/main/MainInfoSection/Data";
+import Services from "../components/main/MainServices";
+import Footer from "../components/main/MainFooterSection";
 
 const Home = () => {
 
@@ -27,6 +27,6 @@ const Home = () => {
             <Footer />
         </>
     );
-}
+};
 
 export default Home;

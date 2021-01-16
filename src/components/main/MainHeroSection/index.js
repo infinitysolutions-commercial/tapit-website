@@ -9,8 +9,8 @@ import {
     HeroH1, HeroP,
     VideoBg
 } from "./HeroElements";
-import Video from '../../../videos/hero.mp4';
-import { Button } from "../ButtonElement";
+import Video from '../../../videos/main/hero.mp4';
+import { Button } from "../MainButtonElement";
 
 const HeroSection = () => {
 

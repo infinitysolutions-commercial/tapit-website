@@ -39,7 +39,7 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to='/' onClick={toggleHome}>
-                            <Img src={require('../../../images/logo.svg').default} alt='Infinity Solutions Logo'/>
+                            <Img src={require('../../../images/main/logo.svg').default} alt='Infinity Solutions Logo'/>
                         </SocialLogo>
                         <WebsiteRights>Infinity Solutions © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                     </SocialMediaWrap>

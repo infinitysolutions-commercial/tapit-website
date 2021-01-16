@@ -6,7 +6,7 @@ export const Button = styled(Link)`
   background: ${({primary, buttonenabled}) => buttonenabled ? (primary ? '#7b49db' : '#010606') : 'transparent'};
   white-space: nowrap;
   padding: ${({big, buttonenabled}) => buttonenabled ? (big ? '14px 48px' : '12px 30px') : '0px'};
-  color: ${({dark, buttonenabled}) => buttonenabled ? (dark ? '#010606' : '#fff') : 'transparent'};
+  color: ${({buttonenabled}) => buttonenabled ? '#fff' : 'transparent'};
   font-size: ${({fontBig, buttonenabled}) => buttonenabled ? (fontBig ? '20px' : '16px') : '0px'};
   outline: none;
   border: none;
@@ -19,5 +19,6 @@ export const Button = styled(Link)`
   &:hover {
     transition: all 0.2s ease-in-out;
     background-color: ${({primary}) => primary ? '#fff' : '#7b49db'};
+    color: ${({buttonenabled}) => buttonenabled === "true" ? '#010606' : 'transparent'};
   }
 `;

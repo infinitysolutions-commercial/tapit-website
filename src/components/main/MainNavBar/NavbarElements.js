@@ -84,6 +84,15 @@ export const NavLinks = styled(LinkS)`
   
   &.active {
     border-bottom: 3px solid #7b49db;
+    cursor: auto;
+
+    :hover {
+      color: #fff;
+    }
+  }
+  
+  :hover {
+    color: #7b49db;
   }
 `;
 

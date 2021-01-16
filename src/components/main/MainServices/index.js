@@ -1,5 +1,5 @@
 import React from 'react';
-import Icon1 from '../../../images/tapit.svg';
+import Icon1 from '../../../images/main/tapit.svg';
 import {
     ServicesCard,
     ServicesContainer,
