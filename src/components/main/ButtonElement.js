@@ -10,7 +10,7 @@ export const Button = styled(Link)`
   font-size: ${({fontBig, buttonenabled}) => buttonenabled ? (fontBig ? '20px' : '16px') : '0px'};
   outline: none;
   border: none;
-  cursor: pointer;
+  cursor: ${({buttonenabled}) => buttonenabled === "true" ? 'pointer' : 'auto'};
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,6 +18,6 @@ export const Button = styled(Link)`
 
   &:hover {
     transition: all 0.2s ease-in-out;
-    background: ${({primary, buttonenabled}) => buttonenabled ? (primary ? '#fff' : '#01BF71') : 'transparent'};
+    background-color: ${({primary}) => primary ? '#fff' : '#01BF71'};
   }
 `;

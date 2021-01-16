@@ -28,10 +28,10 @@ const Footer = () => {
 
                     <FooterLinksWrapper>
                         <FooterLinkItems>
-                            <FooterLinkTitle>Informazioni</FooterLinkTitle>
-                            <FooterLink to="/signin">Termini di servizio</FooterLink>
-                            <FooterLink to="/signin">Politica sulla privacy</FooterLink>
-                            <FooterLink to="/signin">Supporto</FooterLink>
+                            <FooterLinkTitle>Informations</FooterLinkTitle>
+                            <FooterLink to="/signin">Terms of service</FooterLink>
+                            <FooterLink to="/signin">Privacy policy</FooterLink>
+                            <FooterLink to="/signin">Support</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
 
@@ -39,7 +39,7 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to='/' onClick={toggleHome}>
-                            <Img src={require('../../images/logo.svg').default} alt={'IS Logo'}/>
+                            <Img src={require('../../../images/logo.svg').default} alt='Infinity Solutions Logo'/>
                         </SocialLogo>
                         <WebsiteRights>Infinity Solutions © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                     </SocialMediaWrap>

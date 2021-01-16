@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import Sidebar  from '../components/Sidebar';
-import Navbar from "../components/NavBar";
-import HeroSection from "../components/HeroSection";
-import InfoSection from "../components/InfoSection";
-import { homeObjOne, homeObjThree, homeObjTwo } from "../components/InfoSection/Data";
-import Services from "../components/Services";
-import Footer from "../components/Footer";
+import Sidebar  from '../components/main/Sidebar';
+import Navbar from "../components/main/NavBar";
+import HeroSection from "../components/main/HeroSection";
+import InfoSection from "../components/main/InfoSection";
+import { homeObjOne, homeObjThree, homeObjTwo } from "../components/main/InfoSection/Data";
+import Services from "../components/main/Services";
+import Footer from "../components/main/Footer";
 
 const Home = () => {
 
