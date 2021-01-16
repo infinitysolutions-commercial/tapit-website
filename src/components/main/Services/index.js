@@ -1,5 +1,5 @@
 import React from 'react';
-import Icon1 from '../../images/tapit.svg';
+import Icon1 from '../../../images/tapit.svg';
 import {
     ServicesCard,
     ServicesContainer,
@@ -11,13 +11,13 @@ import {
 
 const Services = () => {
     return(
-        <ServicesContainer id="services">
-            <ServicesH1>I nostri prodotti</ServicesH1>
+        <ServicesContainer id="projects">
+            <ServicesH1>Our projects</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1} />
-                    <ServicesH2>TapIt!</ServicesH2>
-                    <ServicesP>Il nostro divertentissimo gioco mobile</ServicesP>
+                    <ServicesH2>TapIt</ServicesH2>
+                    <ServicesP>Our revolutionary mobile game</ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
