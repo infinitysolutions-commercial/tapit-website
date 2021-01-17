@@ -1,19 +1,11 @@
 import React from 'react';
 import {
-    FooterContainer,
-    FooterLink,
-    FooterLinkItems,
-    FooterLinksContainer,
-    FooterLinksWrapper,
-    FooterLinkTitle,
-    FooterWrap,
-    Img,
-    SocialLogo,
-    SocialMedia,
-    SocialMediaWrap,
-    WebsiteRights
+    FooterContainer, FooterLink, FooterLinkItems,
+    FooterLinksContainer, FooterLinksWrapper, FooterLinkTitle,
+    FooterWrap, Img, SocialLogo, SocialMedia, SocialMediaWrap, WebsiteRights
 } from "./FooterElements";
 import { animateScroll as scroll } from "react-scroll";
+import Tos from '../../legal/tos.pdf';
 
 const Footer = () => {
 
@@ -29,9 +21,8 @@ const Footer = () => {
                     <FooterLinksWrapper>
                         <FooterLinkItems>
                             <FooterLinkTitle>Informations</FooterLinkTitle>
-                            <FooterLink to="/signin">Terms of service</FooterLink>
+                            <FooterLink to={Tos} target="_blank">Terms of service</FooterLink>
                             <FooterLink to="/signin">Privacy policy</FooterLink>
-                            <FooterLink to="/signin">Support</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
 
@@ -39,7 +30,7 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to='/' onClick={toggleHome}>
-                            <Img src={require('../../../images/main/logo.svg').default} alt='Infinity Solutions Logo'/>
+                            <Img src={require('../../images/main/logo.svg').default} alt='Infinity Solutions Logo'/>
                         </SocialLogo>
                         <WebsiteRights>Infinity Solutions © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                     </SocialMediaWrap>

@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import Sidebar  from '../components/main/MainSidebar';
-import Navbar from "../components/main/MainNavBar";
-import HeroSection from "../components/main/MainHeroSection";
-import InfoSection from "../components/main/MainInfoSection";
-import { homeObjOne, homeObjThree, homeObjTwo } from "../components/main/MainInfoSection/Data";
-import Services from "../components/main/MainServices";
-import Footer from "../components/main/MainFooterSection";
+import MainSidebar  from '../components/Sidebar';
+import MainNavbar from "../components/NavBar";
+import MainHeroSection from "../components/HeroSection";
+import MainInfoSection from "../components/InfoSection";
+import { homeObjOne, homeObjThree, homeObjTwo } from "../components/InfoSection/Data";
+import MainServices from "../components/Projects";
+import MainFooter from "../components/FooterSection";
 
 const Home = () => {
 
@@ -17,14 +17,14 @@ const Home = () => {
 
     return (
         <>
-            <Sidebar isOpen={isOpen} toggle={toggle}/>
-            <Navbar toggle={toggle}/>
-            <HeroSection />
-            <InfoSection {...homeObjOne}/>
-            <InfoSection {...homeObjTwo}/>
-            <Services />
-            <InfoSection {...homeObjThree}/>
-            <Footer />
+            <MainSidebar isOpen={isOpen} toggle={toggle}/>
+            <MainNavbar toggle={toggle}/>
+            <MainHeroSection />
+            <MainInfoSection {...homeObjOne}/>
+            <MainInfoSection {...homeObjTwo}/>
+            <MainServices />
+            <MainInfoSection {...homeObjThree}/>
+            <MainFooter />
         </>
     );
 };
