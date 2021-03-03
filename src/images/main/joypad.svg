@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_7" data-name="Rettangolo 7" width="375" height="812" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_1">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_1" data-name="iPhone X, XS, 11 Pro – 1" clip-path="url(#clip-iPhone_X_XS_11_Pro_1)">
+    <g id="flat_phone_2_1_" data-name="flat_phone_2 (1)" transform="translate(19 80)">
+      <rect id="Rettangolo_1" data-name="Rettangolo 1" width="22.59" height="73.02" rx="6.92" transform="translate(314.76 86.91)" fill="#353535"/>
+      <rect id="Rettangolo_2" data-name="Rettangolo 2" width="22.59" height="73.02" rx="6.92" transform="translate(314.76 170.43)" fill="#353535"/>
+      <rect id="Rettangolo_3" data-name="Rettangolo 3" width="331.56" height="651.11" rx="39.88" fill="#231f20"/>
+      <rect id="Rettangolo_4" data-name="Rettangolo 4" width="311.66" height="612.03" rx="39.88" transform="translate(9.95 19.54)" fill="#fff"/>
+      <rect id="Rettangolo_5" data-name="Rettangolo 5" width="134.6" height="29.61" rx="10.79" transform="translate(98.48 5.72)" fill="#231f20"/>
+    </g>
+    <g id="iPhone_X_XS_11_Pro_1-2" data-name="iPhone X, XS, 11 Pro – 1" clip-path="url(#clip-path)">
+      <rect id="Rettangolo_6" data-name="Rettangolo 6" width="375" height="812" fill="none"/>
+      <g id="undraw_video_game_night_8h8m" transform="translate(38.542 277.022)">
+        <path id="Tracciato_19" data-name="Tracciato 19" d="M502.593,443.151v-2.078s9.07-5.1,16.439,0v1.89Z" transform="translate(-403.531 -355.016)" fill="#535461"/>
+        <path id="Tracciato_20" data-name="Tracciato 20" d="M789.529,443.151v-2.078s9.07-5.1,16.439,0v1.89Z" transform="translate(-607.894 -355.016)" fill="#535461"/>
+        <path id="Tracciato_21" data-name="Tracciato 21" d="M482.562,447.148h-8.881s-2.267-2.645-9.826-2.456-9.07,2.456-9.07,2.456-7.464,5.007-9.164,11.243c0,0-9.164,27.493-9.353,49.034s8.125,24.564,12.471,25.131,12.093-.189,19.651-19.273l3.212-11.149s.567-6.613,7.369-2.456,12.849-2.267,12.849-2.267h25.51s8.5,5.291,16.25,1.134c0,0,3.023-3.968,5.858,9.448,0,0,8.692,27.587,22.108,24.753s11.9-25.887,11.9-25.887-1.8-35.24-9.164-47.711c0,0-7.086-12.943-11.81-13.51,0,0-10.2-1.89-14.172-.189l-2.267,1.89Z" transform="translate(-356.291 -359.202)" fill="#e6e6e6"/>
+        <circle id="Ellisse_2" data-name="Ellisse 2" cx="16.439" cy="16.439" r="16.439" transform="translate(89.236 90.024)" fill="#535461"/>
+        <circle id="Ellisse_3" data-name="Ellisse 3" cx="16.439" cy="16.439" r="16.439" transform="translate(175.021 90.024)" fill="#535461"/>
+        <path id="Tracciato_22" data-name="Tracciato 22" d="M520.493,487.276l-2.192,1.939a1.017,1.017,0,0,1-1.344,0l-2.2-1.939a1.014,1.014,0,0,1-.344-.756v-5.334a1.017,1.017,0,0,1,1.017-1.015h4.393a1.015,1.015,0,0,1,1.017,1.013v5.332A1.015,1.015,0,0,1,520.493,487.276Z" transform="translate(-411.953 -384.478)" fill="#e6e6e6"/>
+        <path id="Tracciato_23" data-name="Tracciato 23" d="M520.493,524.908l-2.192-1.937a1.017,1.017,0,0,0-1.344,0l-2.2,1.939a1.014,1.014,0,0,0-.344.756v5.328a1.015,1.015,0,0,0,1.013,1.017h4.4A1.015,1.015,0,0,0,520.845,531v-5.33a1.015,1.015,0,0,0-.352-.762Z" transform="translate(-411.953 -414.781)" fill="#e6e6e6"/>
+        <path id="Tracciato_24" data-name="Tracciato 24" d="M495.273,512.521l1.939-2.2a1.017,1.017,0,0,0,0-1.343l-1.939-2.2a1.016,1.016,0,0,0-.756-.344h-5.329a1.017,1.017,0,0,0-1.015,1.017v4.393a1.015,1.015,0,0,0,1.013,1.017h5.332a1.015,1.015,0,0,0,.755-.34Z" transform="translate(-393.262 -403.189)" fill="#e6e6e6"/>
+        <path id="Tracciato_25" data-name="Tracciato 25" d="M532.894,512.516l-1.935-2.2a1.015,1.015,0,0,1,0-1.343l1.939-2.2a1.015,1.015,0,0,1,.756-.344h5.328A1.015,1.015,0,0,1,540,507.448v4.4a1.015,1.015,0,0,1-1.013,1.017h-5.33a1.015,1.015,0,0,1-.763-.349Z" transform="translate(-423.553 -403.184)" fill="#e6e6e6"/>
+        <circle id="Ellisse_4" data-name="Ellisse 4" cx="11.904" cy="11.904" r="11.904" transform="translate(116.068 112.51)" fill="#535461"/>
+        <circle id="Ellisse_5" data-name="Ellisse 5" cx="11.904" cy="11.904" r="11.904" transform="translate(157.26 112.51)" fill="#535461"/>
+        <circle id="Ellisse_6" data-name="Ellisse 6" cx="7.936" cy="7.936" r="7.936" transform="translate(120.036 116.478)" fill="#e6e6e6"/>
+        <path id="Tracciato_26" data-name="Tracciato 26" d="M589.492,571.892a5.48,5.48,0,1,1,5.479-5.48,5.48,5.48,0,0,1-5.479,5.48Zm0-10.581a5.1,5.1,0,1,0,5.1,5.1,5.1,5.1,0,0,0-5.1-5.1Z" transform="translate(-461.52 -441.999)" fill="#535461"/>
+        <circle id="Ellisse_7" data-name="Ellisse 7" cx="7.936" cy="7.936" r="7.936" transform="translate(161.228 116.478)" fill="#e6e6e6"/>
+        <path id="Tracciato_27" data-name="Tracciato 27" d="M732.631,571.892a5.48,5.48,0,1,1,5.48-5.48A5.48,5.48,0,0,1,732.631,571.892Zm0-10.581a5.1,5.1,0,1,0,5.1,5.1,5.1,5.1,0,0,0-5.1-5.1Z" transform="translate(-563.467 -441.999)" fill="#535461"/>
+        <circle id="Ellisse_8" data-name="Ellisse 8" cx="3.401" cy="3.401" r="3.401" transform="translate(145.545 122.335)" fill="#535461"/>
+        <circle id="Ellisse_9" data-name="Ellisse 9" cx="0.743" cy="0.743" r="0.743" transform="translate(143.005 113.642)" fill="#535461"/>
+        <circle id="Ellisse_10" data-name="Ellisse 10" cx="0.743" cy="0.743" r="0.743" transform="translate(145.787 113.642)" fill="#535461"/>
+        <circle id="Ellisse_11" data-name="Ellisse 11" cx="0.743" cy="0.743" r="0.743" transform="translate(145.416 117.166)" fill="#535461"/>
+        <circle id="Ellisse_12" data-name="Ellisse 12" cx="0.756" cy="0.756" r="0.756" transform="translate(148.001 117.234)" fill="#535461"/>
+        <circle id="Ellisse_13" data-name="Ellisse 13" cx="0.743" cy="0.743" r="0.743" transform="translate(150.608 117.166)" fill="#535461"/>
+        <circle id="Ellisse_14" data-name="Ellisse 14" cx="0.743" cy="0.743" r="0.743" transform="translate(144.303 115.497)" fill="#535461"/>
+        <circle id="Ellisse_15" data-name="Ellisse 15" cx="0.756" cy="0.756" r="0.756" transform="translate(146.678 115.533)" fill="#535461"/>
+        <circle id="Ellisse_16" data-name="Ellisse 16" cx="0.756" cy="0.756" r="0.756" transform="translate(149.135 115.533)" fill="#535461"/>
+        <circle id="Ellisse_17" data-name="Ellisse 17" cx="0.743" cy="0.743" r="0.743" transform="translate(151.721 115.497)" fill="#535461"/>
+        <circle id="Ellisse_18" data-name="Ellisse 18" cx="0.756" cy="0.756" r="0.756" transform="translate(148.001 113.644)" fill="#535461"/>
+        <circle id="Ellisse_19" data-name="Ellisse 19" cx="0.756" cy="0.756" r="0.756" transform="translate(150.646 113.644)" fill="#535461"/>
+        <circle id="Ellisse_20" data-name="Ellisse 20" cx="0.743" cy="0.743" r="0.743" transform="translate(152.834 113.642)" fill="#535461"/>
+        <path id="Tracciato_28" data-name="Tracciato 28" d="M574.511,458.847a1.32,1.32,0,0,0-1.318,1.318v3.968a1.32,1.32,0,0,0,1.318,1.318h.945a1.32,1.32,0,0,0,1.318-1.318v-3.968a1.32,1.32,0,0,0-1.318-1.318Z" transform="translate(-453.814 -369.291)" fill="#535461"/>
+        <path id="Tracciato_29" data-name="Tracciato 29" d="M766.239,458.847a1.32,1.32,0,0,0-1.318,1.318v3.968a1.32,1.32,0,0,0,1.318,1.318h.945a1.32,1.32,0,0,0,1.318-1.318v-3.968a1.32,1.32,0,0,0-1.318-1.318Z" transform="translate(-590.368 -369.291)" fill="#535461"/>
+        <circle id="Ellisse_21" data-name="Ellisse 21" cx="4.535" cy="4.535" r="4.535" transform="translate(187.115 91.914)" fill="#e6e6e6"/>
+        <circle id="Ellisse_22" data-name="Ellisse 22" cx="4.535" cy="4.535" r="4.535" transform="translate(177.478 101.551)" fill="#e6e6e6"/>
+        <circle id="Ellisse_23" data-name="Ellisse 23" cx="4.535" cy="4.535" r="4.535" transform="translate(197.129 100.984)" fill="#e6e6e6"/>
+        <circle id="Ellisse_24" data-name="Ellisse 24" cx="4.535" cy="4.535" r="4.535" transform="translate(187.87 110.998)" fill="#e6e6e6"/>
+        <path id="Tracciato_30" data-name="Tracciato 30" d="M598.026,449.654a3.826,3.826,0,0,0-3.822,3.822v16.911a3.826,3.826,0,0,0,3.822,3.822h38.83a3.826,3.826,0,0,0,3.822-3.822V453.476a3.826,3.826,0,0,0-3.822-3.822Z" transform="translate(-468.779 -362.743)" fill="#535461"/>
+        <path id="Tracciato_31" data-name="Tracciato 31" d="M819.814,477.424h-6.15l2.969-5.089Zm-5.492-.378h4.81l-2.488-3.981Z" transform="translate(-625.084 -378.897)" fill="#535461"/>
+        <path id="Tracciato_32" data-name="Tracciato 32" d="M787.08,512.94h-5.1V508.4h5.1Zm-4.724-.378H786.7v-3.779h-4.346Z" transform="translate(-602.516 -404.587)" fill="#535461"/>
+        <path id="Tracciato_33" data-name="Tracciato 33" d="M852.114,510.135a2.834,2.834,0,1,1,2.834-2.834A2.834,2.834,0,0,1,852.114,510.135Zm0-5.291a2.456,2.456,0,1,0,2.456,2.456,2.456,2.456,0,0,0-2.456-2.456Z" transform="translate(-650.45 -401.782)" fill="#535461"/>
+        <rect id="Rettangolo_1-2" data-name="Rettangolo 1" width="0.378" height="6.012" transform="translate(190.1 113.541) rotate(-45)" fill="#535461"/>
+        <rect id="Rettangolo_2-2" data-name="Rettangolo 2" width="6.014" height="0.378" transform="translate(190.102 117.429) rotate(-43.734)" fill="#535461"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,2 +1,2 @@
-# website
-Official website of InfinitySolutions
+# TapIt Website
+Official website of TapIt

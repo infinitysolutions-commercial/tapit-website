@@ -32,16 +32,16 @@ const NavBar = ({toggle}) => {
             <IconContext.Provider value={{color: '#fff'}}>
                 <Nav scrollNav={scrollNav}>
                     <NavbarContainer>
-                        <NavLogo to='/' onClick={toggleHome}>Infinity Solutions</NavLogo>
+                        <NavLogo to='/' onClick={toggleHome}>Tap It</NavLogo>
                         <MobileIcon onClick={toggle}>
                             <FaBars/>
                         </MobileIcon>
                         <NavMenu>
                             <NavItem>
-                                <NavLinks to='info' smooth={true}
+                                <NavLinks to='fun' smooth={true}
                                           duration={500} spy={true}
                                           exact='true' offset={-80}
-                                >Info</NavLinks>
+                                >Fun</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks to='security' smooth={true}
@@ -50,16 +50,16 @@ const NavBar = ({toggle}) => {
                                 >Security</NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='projects' smooth={true}
+                                <NavLinks to='app' smooth={true}
                                           duration={500} spy={true}
                                           exact='true' offset={-80}
-                                >Projects</NavLinks>
+                                >The app</NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='future' smooth={true}
+                                <NavLinks to='competitive' smooth={true}
                                           duration={500} spy={true}
                                           exact='true' offset={-80}
-                                >Future</NavLinks>
+                                >Competitive</NavLinks>
                             </NavItem>
                         </NavMenu>
                     </NavbarContainer>

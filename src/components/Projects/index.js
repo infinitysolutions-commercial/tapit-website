@@ -1,5 +1,7 @@
 import React from 'react';
-import Icon1 from '../../images/main/tapit.svg';
+import Icon1 from '../../images/main/menu.svg';
+import Icon2 from '../../images/main/local.svg';
+import Icon3 from '../../images/main/settings.svg';
 import {
     ServicesCard,
     ServicesContainer,
@@ -11,13 +13,23 @@ import {
 
 const Projects = () => {
     return(
-        <ServicesContainer id="projects">
-            <ServicesH1>Our projects</ServicesH1>
+        <ServicesContainer id="app">
+            <ServicesH1>The app</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1} />
-                    <ServicesH2>TapIt (WIP)</ServicesH2>
-                    <ServicesP>Our revolutionary mobile game</ServicesP>
+                    <ServicesH2>Menu</ServicesH2>
+                    <ServicesP>Navigate through the sections with the menu</ServicesP>
+                </ServicesCard>
+                <ServicesCard>
+                    <ServicesIcon src={Icon2} />
+                    <ServicesH2>Local</ServicesH2>
+                    <ServicesP>Play with your friends our game in the Local section</ServicesP>
+                </ServicesCard>
+                <ServicesCard>
+                    <ServicesIcon src={Icon3} />
+                    <ServicesH2>Settings</ServicesH2>
+                    <ServicesP>Change the settings of the app in the Settings section</ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
